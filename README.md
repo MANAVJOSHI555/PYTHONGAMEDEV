@@ -33,7 +33,7 @@ A classic **Space Invader** arcade-style game built using **Python** and **Pygam
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/space-invader-game.git
+git clone https://github.com/manavjoshi555/PYTHONGAMEDEV.git
 cd space-invader-game
 
 # 2. Install Pygame
